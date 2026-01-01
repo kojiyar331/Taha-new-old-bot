@@ -24,13 +24,13 @@ const time = process.uptime(),
 const moment = require("moment-timezone");
 var juswa = moment.tz("Asia/Kolkata").format("『D/MM/YYYY』 【HH:mm:ss】");
 var link =                                     
-["https://imgur.com/a/FXhpXW0"];
+["https://i.imgur.com/1tUVG85.jpeg"];
 var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ ̿)🇵🇰 𝐀𝐃𝐌𝐈𝐍 𝐀𝐍𝐃 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 🇵🇰 
 (⌐▀͡ ̯ʖ▀)︻̷┻̿═━一-
 
 ☄️Bot Name︎︎︎☄️  ${global.config.BOTNAME}
 
-🔥Bot Admin🔥☞︎︎︎ 𝐂𝐇𝐔𝐙𝐀 ☜︎︎︎✰🎁
+🔥Bot Admin🔥☞︎︎︎ 𝐓𝐀𝐇𝐀.𝐁𝐀𝐁𝐔 ☜︎︎︎✰🎁
 
 🙈bot andmin owner facebook id link🙈👇🏻\n https://www.facebook.com\n
 
@@ -39,7 +39,7 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 🌸Bot Prefix🌸☞︎︎︎☜︎︎︎✰ ${global.config.PREFIX}
 
-♥️Bot Owner♥️ ☞︎︎︎ 𝐂𝐇𝐔𝐙𝐀☜︎︎︎✰ 
+♥️Bot Owner♥️ ☞︎︎︎ 𝐓𝐀𝐇𝐀 𝐁𝐀𝐁𝐔 ☜︎︎︎✰ 
 
 🥳UPTIME🥳
 
@@ -52,7 +52,7 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 🦢🍒•••ꞪɛᏒɛ ɪʂ ɮ❍┼ ❍ωɳɜɽ ɳaʍɜ•••🌷💞
 ┏━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┓
-🌸✦✧.🐼◉⚡Thɛ͓̽'ʬ Cʜ͢͡ʋʑ͜͡ʑʌ͓̽🐥⚡◉🤩✦🌸
+🌸✦✧.🐼◉⚡𝐓𝐇𝐄 𝐓𝐀𝐇𝐀.𝐁𝐀𝐁𝐔🐥⚡◉🤩✦🌸
 ┗━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┛
 
 
